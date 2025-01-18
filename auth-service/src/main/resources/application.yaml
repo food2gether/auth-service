@@ -1,0 +1,5 @@
+quarkus:
+  index-dependency:
+    auth-lib:
+      group-id: com.github.food2gether
+      artifact-id: auth-lib

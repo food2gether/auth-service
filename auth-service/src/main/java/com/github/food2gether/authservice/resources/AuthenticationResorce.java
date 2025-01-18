@@ -1,6 +1,5 @@
 package com.github.food2gether.authservice.resources;
 
-import com.fasterxml.jackson.databind.introspect.TypeResolutionContext.Basic;
 import jakarta.ws.rs.*;
 import jakarta.ws.rs.core.MediaType;
 import jakarta.ws.rs.core.Response;
